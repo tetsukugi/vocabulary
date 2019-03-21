@@ -1,3 +1,3 @@
-import word_quiz.controller.question
+import word_quiz.controller.quizcontroller
 
-word_quiz.controller.question.quiz_start()
+word_quiz.controller.quizcontroller.start_quiz()
